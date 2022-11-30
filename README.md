@@ -1,5 +1,5 @@
 # React App From Scratch
-###### These are the steps that I followed inorder to create a react app from scratch with out using `npx create-react-app`
+###### These are the steps that I followed inorder to create a react app from scratch `with out using npx create-react-app`
 
 ### Step 1
   > npm init -y
